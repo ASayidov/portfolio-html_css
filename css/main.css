@@ -83,6 +83,10 @@ btn:active {
   line-height: 21px;
 }
 
+.nav-button {
+  display: none;
+}
+
 .nav-link {
   color: #000;
 }
