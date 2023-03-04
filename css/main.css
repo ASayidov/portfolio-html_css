@@ -3,7 +3,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  /* color: #000; */
+  color: #000;
 }
 
 .container {
@@ -60,6 +60,6 @@ body {
   color: #000;
 }
 
-.nav-link.acive {
+.nav-link.active {
   color: #606060;
 }
