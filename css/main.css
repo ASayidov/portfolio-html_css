@@ -3,7 +3,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  color: #000;
+  /* color: #000; */
 }
 
 .container {
@@ -44,4 +44,22 @@ body {
   height: 8px;
   background-color: #fda300;
   border-radius: 50%;
+}
+
+/* NAV */
+
+.nav-list {
+  display: flex;
+  column-gap: 50px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.nav-link {
+  color: #000;
+}
+
+.nav-link.acive {
+  color: #606060;
 }
