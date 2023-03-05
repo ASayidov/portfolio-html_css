@@ -10,3 +10,5 @@ const navchange = () => {
     navImg.src = "./img/icons/nav-open.svg"
   }
 }
+
+AOS.init();
